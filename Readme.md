@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Сергей Уфимцев](https://up.htmlacademy.ru/htmlcss/36/user/1961241).
-* Наставник: [Дмитрий Гуляев][https://htmlacademy.ru/profile/dima].
+* Наставник: [Дмитрий Гуляев](https://htmlacademy.ru/profile/dima).
 
 ---
 
